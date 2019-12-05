@@ -8,6 +8,7 @@ class EurekaDiscoveryServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+        EurekaDiscoveryServiceApplication.main(new String[] {});
 	}
 
 }
